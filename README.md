@@ -23,7 +23,8 @@ I'm focusing on embodied AI, exploring GTM roadmaps, and tackling model/data bot
 
 Check out some of my work:
 
-- **[World Models](https://x.com/Naman_Sharma5/status/1809711579639726378)**: Developed action-conditioned diffusion models for simulating worlds, optimizing latency, controllability, and generalizability.
+- ** [2D Store Sim](https://naman-sharma.com/video/side%20by%20side%20human%20vs%20robots.mp4)** Simulate real floorplans and order data to show ROI of embodied AI solutions to enterprise customers, converted 1 FTSE 250 supermarket.
+-  **[World Models](https://x.com/Naman_Sharma5/status/1809711579639726378)**: Developed action-conditioned diffusion models for simulating worlds, optimizing latency, controllability, and generalizability.
 - **[Vision Based Localisation and Navigation](https://www.linkedin.com/posts/namansharma5_no-gps-no-problem-vision-based-localization-activity-7188306145986416640-ze2P?utm_source=share&utm_medium=member_desktop)**: AI-powered camera-based localization for when GPS is unavailable.
 - **[GPT Canvas](https://www.linkedin.com/posts/namansharma5_gpt-canvas-unlocking-new-modalities-to-interface-activity-7143302823496093696-vy-L?utm_source=share&utm_medium=member_desktop)**: Mindmapping and whiteboarding tool with LLMs for deep exploration and broad searches.
 - **[MapsAI](https://www.linkedin.com/posts/namansharma5_searching-for-a-place-but-dont-remember-activity-7124899965968998400-TYFp?utm_source=share&utm_medium=member_desktop)**: Semantic search tool harnessing memories and conversations for Google Maps.
