@@ -5,7 +5,7 @@ Hi there, I'm Naman, a positively curious individual with a background in Comput
 ## 🌟 About Me
 
 - 🎓 **Education**: MEng Computing with AI & ML, Imperial College London
-- 💼 **Work Experience**: Bloomberg AI, Jane Street Focus Program, Palantir FDSE (offer-holder)
+- 💼 **Work Experience**: Bloomberg AI, Jane Street Focus Program, Palantir FDSE
 - ⚙️ **Skills**: Python, Java, AI & ML, Software System Design, Scalable Systems, Operating Systems and Computer Architecture
 - 🌐 **Website**: [naman-sharma.com](https://www.naman-sharma.com)
 
